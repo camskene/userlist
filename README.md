@@ -8,7 +8,11 @@ Add dependencies:
 
 `npm install`
 
-Connect to the Mongo database: 
+Create a directory for Mongo to store our data:
+
+`mkdir /data/db`
+
+Connect to the Mongo database:
 
 `mongod --dbpath /data/db`
 
@@ -16,7 +20,7 @@ Open a new terminal window and open a Mongo command prompt:
 
 `mongo`
 
-At the Mongo command prompt create our database 
+At the Mongo command prompt create our database
 
 `use userlist`
 
