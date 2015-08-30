@@ -1,5 +1,7 @@
 A 'hello world' Node app.
 
+This repo is the result of following [this tutorial](http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/).
+
 Uses Node, Express, Mongo, and Jade to add and retrieve user details from a database.
 
 To get started `cd` into the project directory and then do the following:
