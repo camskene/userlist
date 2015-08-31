@@ -14,11 +14,11 @@ Add dependencies:
 
 Create a directory for Mongo to store our data:
 
-`mkdir /data/db`
+`mkdir data`
 
 Connect to the Mongo database:
 
-`mongod --dbpath /data/db`
+`mongod --dbpath ./data`
 
 Open a new terminal window and open a Mongo command prompt:
 
